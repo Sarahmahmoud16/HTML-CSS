@@ -1,0 +1,54 @@
+.link{
+    font-size: 16px;
+    color: rgb(0, 85, 255);
+    transition: color 1s;
+}
+.link:hover{
+    color: rgb(147, 0, 0);
+}
+.p1{
+    font-size: 28px;
+    font-weight: bold;
+}
+.p2{
+    font-size: 22px;
+    font-weight: bold;
+    color: green;
+}
+.p3{
+    font-size: 18px;
+    font-weight: bold;
+}
+.button1{
+    background-color: rgb(255, 216, 20);
+    color:black;
+    height: 36px;
+    width:170px;
+    border: none;
+    border-radius: 16px;
+    margin-right: 9px;
+    cursor: pointer;
+    transition: opacity 1s;
+}
+.button1:hover{
+    opacity: 0.8;
+}
+.button1:active{
+    opacity: 0.1;
+}
+.button2{
+    background-color: rgb(255, 173, 20);
+    color:black;
+    height: 36px;
+    width:170px;
+    border: none;
+    border-radius: 16px;
+    cursor: pointer;
+    transition: opacity 1s;
+}
+.button2:hover{
+    opacity: 0.5;
+}
+.button2:active{
+    opacity: 0.2;
+}
