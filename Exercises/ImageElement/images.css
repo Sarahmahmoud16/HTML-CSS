@@ -1,0 +1,19 @@
+.image1 {
+    width: 300px;
+    border-radius: 8px;
+}
+
+.image2 {
+    width: 250px;
+    height: 200px;
+}
+
+.image3 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    /* Makes it circular */
+    object-fit: fill;
+    /* Ensures the image fills the circle without distortion */
+    border:none;
+}

@@ -1,0 +1,40 @@
+.name-bar,
+.email-bar{
+    display: block;
+    margin-bottom: 7px;
+}
+.text{
+    width: 200px;
+    display: inline-block;
+}
+.fname-bar,
+.lname-bar{
+    display: inline-block;
+    border-radius: 7px;
+    border-color: rgb(181, 180, 180);
+    border-style: solid;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.email-bar2{
+    width: 340px;
+    display: block;
+    margin-top: 7px;
+    border-radius: 7px;
+    border-color: rgb(181, 180, 180);
+    border-style: solid;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.sign-button{
+    margin-top: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 6px;
+    background-color: rgb(42, 137, 246);
+    color: white;
+}
